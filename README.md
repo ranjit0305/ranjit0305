@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hey there! I'm Ranjit T N 👨‍🎓
 
-<!--
-**ranjit0305/ranjit0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student | 💻 Front-End Developer Enthusiast | 🚀 Future Tech Innovator
 
-Here are some ideas to get you started:
+🌟 Turning lines of code into beautiful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently studying Information Technology at Coimbatore Institute Of Technology.
+
+💡 Passionate about crafting delightful and user-friendly web interfaces.
+
+🌱 Always learning and exploring the latest in front-end technologies.
+
+💬 Let's connect and talk all things front-end development!
+
+📫 Feel free to reach out at ranju0305@gmail.com
+
+
